@@ -5,6 +5,6 @@ Technology: Facial Recognition
 
 Team:<br>
     -Tamir Lucas <br>
-    -Felicia Aurele Menang <br>
-    -Kidus Abebe <br>
     -Jasleen Kaur <br>
+    -Felicia Aurele Menang<br>
+    -Kidus Abebe <br>
